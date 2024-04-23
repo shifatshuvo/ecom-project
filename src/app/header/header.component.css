@@ -1,0 +1,83 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  /* justify-items: center; */
+  margin-top: 10px;
+}
+
+.nav h1 {
+  font-weight: bold;
+  color: blueviolet;
+  margin: 0px;
+  font-size: 35px;
+}
+
+.nav ul {
+  display: inline-flex;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav li {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.nav li a:hover {
+  color: blue;
+}
+
+.nav .nav-search {
+  margin-top: 5px;
+  flex: 1px;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.nav .nav-search input {
+  flex: 1;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  height: 34px;
+  border-right: 0px;
+}
+
+.nav .nav-search button {
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  height: 34px;
+  border-left: 0px;
+}
+
+h1 a{
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.suggested-result{
+  position: absolute;
+  display: list-item !important;
+  z-index: 10;
+  background-color: #fff;
+  width: 300px;
+  top: 60px;
+  border: 1px solid #ddd;
+}
+
+.suggested-result li{
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.suggested-result li a{
+  cursor: pointer;
+  color: blueviolet;
+}

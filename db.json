@@ -1,0 +1,346 @@
+{
+  "seller": [
+    {
+      "name": "Shifat Shuvo",
+      "email": "shifat@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Abc Khan",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Rayhan Sikder",
+      "password": "123",
+      "email": "rayhan@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Safa Samira",
+      "password": "safa123",
+      "email": "safa@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Pat Cummins",
+      "password": "pat12",
+      "email": "pat@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Shanto",
+      "password": "22",
+      "email": "sh@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Selina",
+      "password": "s11",
+      "email": "selina@test.com",
+      "id": 7
+    },
+    {
+      "name": "Rick",
+      "password": "12",
+      "email": "rick@test.com",
+      "id": 8
+    },
+    {
+      "name": "Shanto",
+      "password": "22",
+      "email": "shanto@user.com",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 15",
+      "price": "147000",
+      "color": "Pink",
+      "category": "Apple Phone",
+      "description": "2023 New iPhone with new cheap, and camera.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "iPhone 14",
+      "price": "110500",
+      "color": "navy",
+      "category": "Apple Phone",
+      "description": "iPhone 14 good phone, authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "78500",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Hp laptop 2023, Authentic product",
+      "image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-eg2073tu/15-eg2073tu-04-500x500.webp",
+      "id": 3
+    },
+    {
+      "name": "Sneakers",
+      "price": "1250",
+      "color": "White",
+      "category": "sneakers",
+      "description": "Authentic product, Imported",
+      "image": "https://static-01.daraz.com.bd/p/81922308e0ba3814358e8f7b2b405738.jpg_750x750.jpg_.webp",
+      "id": 4
+    },
+    {
+      "name": "iPhone 14 ii",
+      "price": "100500",
+      "color": "blue",
+      "category": "Apple Phone",
+      "description": "iPhone 14 good phone, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Sneakers Black",
+      "price": "1550",
+      "color": "Balck",
+      "category": "sneakers",
+      "description": "Authentic product, Imported",
+      "image": "https://rukminim1.flixcart.com/image/850/1000/jve4pe80/shoe/u/b/c/97994-7-5-gas-black-original-imafgbffjrrkfmyh.jpeg?q=20",
+      "id": 6
+    },
+    {
+      "name": "Oneplus Watch",
+      "price": "10700",
+      "color": "blue",
+      "category": "watch",
+      "description": "OnePlus good watch, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/nord-watch-01.jpg",
+      "id": 7
+    },
+    {
+      "name": "OnePlus 10T",
+      "price": "95000",
+      "color": "black",
+      "category": "Phone",
+      "description": "10T good phone, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10t-5g-2.jpg",
+      "id": 8
+    },
+    {
+      "name": "Samsung Watch",
+      "price": "10500",
+      "color": "black",
+      "category": "Watch",
+      "description": "Samsung Watch good watch, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-watch6-02.jpg",
+      "id": 9
+    },
+    {
+      "name": "Samsung Z Flip5",
+      "price": "100500",
+      "color": "black",
+      "category": "Phone",
+      "description": "Z-Flip good phone, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip5-5g-r1.jpg",
+      "id": 10
+    },
+    {
+      "name": "Jens Pant",
+      "price": "1000",
+      "color": "blue",
+      "category": "Men Jens",
+      "description": "Authentic product",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2021/9/KU/WX/SC/74910885/product-jpeg-500x500.jpg",
+      "id": 11
+    },
+    {
+      "name": "Toy Robot",
+      "price": "1500",
+      "color": "Green",
+      "category": "Toy",
+      "description": "good toy, Authentic product",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_04eed652-2442-487b-a586-87ca01c32500?wid=488&hei=488&fmt=pjpeg",
+      "id": 12
+    },
+    {
+      "name": "Jens Pant 2",
+      "price": "1200",
+      "color": "blue",
+      "category": "Men Jens",
+      "description": "Authentic product",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2021/9/KU/WX/SC/74910885/product-jpeg-500x500.jpg",
+      "id": 13
+    },
+    {
+      "name": "Led bulb",
+      "price": "500",
+      "color": "white",
+      "category": "light",
+      "description": "Good product 18w light",
+      "image": "https://sqgroup.com/wp-content/uploads/2021/05/LED-BULB.png",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "name": "dd",
+      "email": "dd@g",
+      "password": "44",
+      "id": 1
+    },
+    {
+      "name": "shifat",
+      "email": "shifat@g",
+      "password": "11",
+      "id": 2
+    },
+    {
+      "name": "Rayhan",
+      "email": "rayhan@gmail.com",
+      "password": "22",
+      "id": 3
+    },
+    {
+      "name": "Abc Khan",
+      "email": "ab@user.com",
+      "password": "33",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "iPhone 15",
+      "price": "146000",
+      "color": "Pink",
+      "category": "Apple Phone",
+      "description": "2023 New iPhone with new cheap, and camera.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-1.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "name": "Toy Robot",
+      "price": "1500",
+      "color": "Green",
+      "category": "Toy",
+      "description": "good toy, Authentic product",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_04eed652-2442-487b-a586-87ca01c32500?wid=488&hei=488&fmt=pjpeg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 12,
+      "id": 2
+    },
+    {
+      "name": "Jens Pant 2",
+      "price": "1200",
+      "color": "blue",
+      "category": "Men Jens",
+      "description": "Authentic product",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2021/9/KU/WX/SC/74910885/product-jpeg-500x500.jpg",
+      "quantity": 1,
+      "productId": 13,
+      "userId": null,
+      "id": 3
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "78500",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Hp laptop 2023, Authentic product",
+      "image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-eg2073tu/15-eg2073tu-04-500x500.webp",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Samsung Watch",
+      "price": "10500",
+      "color": "black",
+      "category": "Watch",
+      "description": "Samsung Watch good watch, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-watch6-02.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 9,
+      "id": 5
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "78500",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Hp laptop 2023, Authentic product",
+      "image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-eg2073tu/15-eg2073tu-04-500x500.webp",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 3,
+      "id": 6
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "78500",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Hp laptop 2023, Authentic product",
+      "image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-eg2073tu/15-eg2073tu-04-500x500.webp",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Samsung Watch",
+      "price": "10500",
+      "color": "black",
+      "category": "Watch",
+      "description": "Samsung Watch good watch, Authentic product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-watch6-02.jpg",
+      "quantity": 1,
+      "productId": 9,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Sneakers",
+      "price": "1250",
+      "color": "White",
+      "category": "sneakers",
+      "description": "Authentic product, Imported",
+      "image": "https://static-01.daraz.com.bd/p/81922308e0ba3814358e8f7b2b405738.jpg_750x750.jpg_.webp",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 4,
+      "id": 9
+    },
+    {
+      "name": "Sneakers Black",
+      "price": "1550",
+      "color": "Balck",
+      "category": "sneakers",
+      "description": "Authentic product, Imported",
+      "image": "https://rukminim1.flixcart.com/image/850/1000/jve4pe80/shoe/u/b/c/97994-7-5-gas-black-original-imafgbffjrrkfmyh.jpeg?q=20",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 6,
+      "id": 10
+    },
+    {
+      "name": "Led bulb",
+      "price": "500",
+      "color": "white",
+      "category": "light",
+      "description": "Good product 18w light",
+      "image": "https://sqgroup.com/wp-content/uploads/2021/05/LED-BULB.png",
+      "quantity": 6,
+      "productId": 14,
+      "userId": 4,
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+.tableContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.product-list h1{
+  text-align: center;
+  color: blueviolet;
+}
+
+table{
+  text-align: left;
+  color: blueviolet;
+  border-collapse: collapse;
+}
+
+table td, table th{
+  border: 1px solid blueviolet;
+  padding: 12px;
+  min-height: 160px;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.deleteButton{
+  cursor: pointer;
+  color: rgb(141, 135, 135);
+  /* display: flex;
+  justify-content: center; */
+  font-size:x-large;
+}
+
+.deleteButton:hover{
+  color: red;
+}
+
+.updateButton{
+  margin-left: 15px;
+  cursor: pointer;
+  font-size: x-large;
+  color: orange;
+}
+
+.updateButton:hover{
+  color: green;
+}
